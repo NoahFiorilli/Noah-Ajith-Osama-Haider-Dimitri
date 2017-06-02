@@ -1,0 +1,98 @@
+body {
+	background-color: #81CFCC;
+    margin: 0;
+}
+
+p{
+font-family: 'Noto Sans', sans-serif;
+	color: #FFFFFF;
+	font-size: 1em;
+	font-weight: lighter;
+	line-height: 5px;
+    
+}
+
+a:link{
+	color: #E0E0E0;
+	text-decoration: none;
+font-family: 'Open Sans', sans-serif;
+	font-size: 27pt;
+	font-weight: bold;
+    margin: 5px 0 0 20px;
+}
+	
+a:hover{
+	color: #8AD3FF;
+	text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+.wrapper {
+    margin: 0px auto 0px auto;
+	position: relative;
+	z-index: 1;
+}
+
+.backgroundpic{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5a/LHA_Building.JPG);
+	height: 435px;
+	background-repeat: no-repeat;
+	width: 100%;
+    margin: 0px auto 0px auto;
+	z-index: 1;
+	background-position: center top;
+}
+	
+.emblem {
+	height: 160px;
+	width: 170px;
+	float: left;
+    margin-top: -110px;
+    margin: -110px 0 0 50px;
+}
+.seniorbutton {
+    margin: 6px 270px 0 10px;
+}
+.footer {
+	clear: both;
+	width: 100% auto;
+    margin: 0px auto 0px auto;
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+}
+.footerright {
+	float: right;
+	padding: 10px;
+    margin: 50px 450px 0 0;
+}
+
+.bar {
+	color: #FFFFFF;
+	background-color: #522355;
+	height: 60px;
+	width: 100%;
+	top: 40%;
+	position: fixed;
+    padding: 10px
+}
+
+
+.insidebar {
+	color: #FFFFFF;
+	width: 1024px;
+	position: relative;
+	z-index: 10;
+    margin: 0px auto 0px auto;
+}
+.names {
+	clear: both;
+	width: 100%;
+	text-align: center;
+	font-family: Abel;
+}
+.yo {
+  color:aqua;
+}
